@@ -3,10 +3,16 @@
 
 # Features
 
-Creating an account and entering it
+Creating an account and login to it
+
 Change and forget password
+
 Countdown timer
+
 The  difficulty level selection
+
 Game theme selection
+
 Save history of games
+
 Save the top scores of each level
